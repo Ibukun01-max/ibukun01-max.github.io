@@ -16,8 +16,8 @@ I enjoy solving business problems by designing interactive dashboards and delive
 ---
 
 ### 📊 Featured Projects  
-- [**Global Retail Inc. — Sales Performance Dashboard**](https://github.com/ibukun-adefioye/global-retail-dashboard)  
-   Power BI dashboard analyzing $24.9M revenue across products, regions, and customer segments with executive insights and recommendations.  
+- [**Global Retail Inc. — Sales Performance Dashboard**]https://github.com/Ibukun01-max/GLOBAL-RETAIL-INC.-SALES-ANALYSIS-AND-VISUALIZATION 
+   Power BI dashboard analyzing revenue across products, regions, and customer segments with executive insights and recommendations.  
 
 - [**Primetech Appliances — Customer & Regional Insights**](https://github.com/ibukun-adefioye/primetech-dashboard)  
    Dashboard project highlighting customer retention challenges, product profitability, and regional sales performance.  
