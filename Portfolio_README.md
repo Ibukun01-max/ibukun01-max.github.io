@@ -19,11 +19,8 @@ I enjoy solving business problems by designing interactive dashboards and delive
 - [**Global Retail Inc. — Sales Performance Dashboard**]https://github.com/Ibukun01-max/GLOBAL-RETAIL-INC.-SALES-ANALYSIS-AND-VISUALIZATION 
    Power BI dashboard analyzing revenue across products, regions, and customer segments with executive insights and recommendations.  
 
-- [**Primetech Appliances — Customer & Regional Insights**](https://github.com/ibukun-adefioye/primetech-dashboard)  
-   Dashboard project highlighting customer retention challenges, product profitability, and regional sales performance.  
-
-- [**SQL Customer Segmentation Analysis**](https://github.com/ibukun-adefioye/sql-analysis)  
-   SQL scripts to classify one-time vs repeat customers and clean sales data for improved integrity.  
+- [**SQL Customer Segmentation Analysis**]https://github.com/Ibukun01-max/GLOBAL-RETAIL-INC.-SALES-ANALYSIS-AND-VISUALIZATION/blob/main/Sales%20Queries%20for%20Global%20Retail%20Inc..sql
+   SQL scripts to assess data quality, clean data for improved integrity, create new derivatives to answer some business questions, and classify one-time vs repeat customers.  
 
 ---
 
