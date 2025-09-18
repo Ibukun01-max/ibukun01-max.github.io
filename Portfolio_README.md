@@ -8,7 +8,7 @@ I enjoy solving business problems by designing interactive dashboards and delive
 ---
 
 ### ⚙️ Skills & Tools  
-- **Data Analysis & Visualization** → Power BI, Excel (Pivot Tables, Power Query)  
+- **Data Analysis & Visualization** → Power BI, Tableau, Excel (Pivot Tables, Power Query)  
 - **Data Management** → SQL (PostgreSQL, MySQL)  
 - **Programming** → Python (Pandas, Matplotlib)  
 - **Other Skills** → Business Intelligence, Dashboard Design, Customer Segmentation, KPI Reporting  
@@ -20,7 +20,9 @@ I enjoy solving business problems by designing interactive dashboards and delive
    Power BI dashboard analyzing revenue across products, regions, and customer segments with executive insights and recommendations.  
 
 - [**SQL Customer Segmentation Analysis**]https://github.com/Ibukun01-max/GLOBAL-RETAIL-INC.-SALES-ANALYSIS-AND-VISUALIZATION/blob/main/Sales%20Queries%20for%20Global%20Retail%20Inc..sql
-   SQL scripts to assess data quality, clean data for improved integrity, create new derivatives to answer some business questions, and classify one-time vs repeat customers.  
+   SQL scripts to assess data quality, clean data for improved integrity, create new derivatives to answer some business questions, and classify one-time vs repeat customers.
+- [**Dakibo Factroy Dashboard**]https://github.com/Ibukun01-max/DAIKIBO-FACTORY-DASHBOARD
+  Interactive Tableau dashboard analyzing factory and device performance of **Dakibo Factory** across their global sites.
 
 ---
 
